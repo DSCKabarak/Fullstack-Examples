@@ -1,0 +1,9 @@
+[submodule "itunes-ejs-challenge"]
+	path = itunes-ejs-challenge
+	url = https://github.com/dev-warehouse/itunes-ejs-challenge.git
+[submodule "airport-flask-backend"]
+	path = airport-flask-backend
+	url = https://github.com/dev-warehouse/airport-flask-backend.git
+[submodule "airport-frontend-challenge"]
+	path = airport-frontend-challenge
+	url = https://github.com/dev-warehouse/airport-frontend-challenge.git
